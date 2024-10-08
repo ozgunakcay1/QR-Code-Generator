@@ -3,5 +3,8 @@ Welcome to QR Code Generator Project. This project is a website created using Ja
 #Technologies: Javascript , HTML , CSS , Full Responsive
 
 
-https://github.com/user-attachments/assets/fdb14e0f-46ed-46a2-8676-444c242b5fb5
+https://github.com/user-attachments/assets/52d54f2d-8ba2-4607-80fb-b886d811856a
+
+
+
 
